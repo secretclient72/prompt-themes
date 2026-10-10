@@ -39,7 +39,7 @@ if "%1"=="hacker" (
     color f7
     goto :finished
 ) else (
-    echo Usage: themes.bat <theme>
+    echo Usage: themes.bat ^<theme^>
     goto :finished
 )
 :finished
